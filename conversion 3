@@ -1,0 +1,7 @@
+a="jayaditya"
+print(a)
+print(type(a))
+
+c=bool(a)
+print(c)
+print(type(c))
