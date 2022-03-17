@@ -1,0 +1,17 @@
+a=10
+print(a)
+# before conversion
+print(type(a))
+# after conversion
+b=str(a)
+print(b)
+print(type(b))
+c=float(a)
+print(c)
+print(type(c))
+d=bool(a)
+print(d)
+print(type(d))
+e=complex(a)
+print(e)
+print(type(e))
